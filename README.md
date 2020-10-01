@@ -1,5 +1,10 @@
-# Flutter-music
+## Music Player Built With Flutter
 
-This is a music app using Flutter.
+This app will be a completely new Music Player which will have 
+Emoticon Reactions, some new never seen before designs, and a quick reponsive enviroment.
 
-It's under development. 
+===================================================================
+# Disclaimer :
+I tried adding he webview Just for Educational Purposes, without the consent of the music platforms.
+Please take prior consent if you want to add anyone's website in your app's Webview and use it publicly.
+
